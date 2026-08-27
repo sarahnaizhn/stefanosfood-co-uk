@@ -1,2 +1,4 @@
 /index.php / 301
-/en-GB/* /united-kingdom-gb/:splat 301
+/lola-jack-gb/* /lolajack-casino-gb/:splat 301
+/united-kingdom-gb/* /lolajack-casino-gb/:splat 301
+/en-GB/* /lolajack-casino-gb/:splat 301
