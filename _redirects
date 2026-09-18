@@ -1,7 +1,2 @@
 /index.php / 301
-/lolajack-gb/* /lola-jack-casino-reviews-gb/:splat 301
-/lola-jack-casino-gb/* /lola-jack-casino-reviews-gb/:splat 301
-/lolajack-casino-gb/* /lola-jack-casino-reviews-gb/:splat 301
-/lola-jack-gb/* /lola-jack-casino-reviews-gb/:splat 301
-/united-kingdom-gb/* /lola-jack-casino-reviews-gb/:splat 301
-/en-GB/* /lola-jack-casino-reviews-gb/:splat 301
+/united-kingdom-gb/* /lola-jack-gb/:splat 301
