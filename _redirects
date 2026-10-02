@@ -1,2 +1,3 @@
 /index.php / 301
-/united-kingdom-gb/* /lola-jack-gb/:splat 301
+/lola-jack-gb/* /lolajack-gb/:splat 301
+/united-kingdom-gb/* /lolajack-gb/:splat 301
